@@ -51,13 +51,6 @@ Recommended Order
 - Deterministic demo data generation
 - Unit tests for selector, policy, and leakage boundary
 
-## Important data-policy note
-
-The repository intentionally does **not** contain private operational data.
-
-The agent can accept frozen P50/P90/P95/regime values from an upstream forecasting system. If those fields are absent, it uses a transparent historical fallback based on the sales history. The fallback is **not claimed to be the original hidden V8.20 forecasting engine**.
-
-Test-period actual demand must not be passed into `InventoryAgent.recommend()`.
 
 ## Quick start
 
