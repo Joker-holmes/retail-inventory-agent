@@ -1,0 +1,7 @@
+{
+  "lead_time_days": 1.0,
+  "order_up_to_horizon_days": 2.0,
+  "forecast_weight": 0.60,
+  "demand_clip_lower": 0.70,
+  "demand_clip_upper": 1.15
+}

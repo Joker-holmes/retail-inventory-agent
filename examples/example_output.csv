@@ -1,0 +1,2 @@
+decision_date,product_id,inventory,forecast_p50,forecast_p90,forecast_p95,forecast_source,regime,selected_forecast,selected_quantile,demand_proxy,safety_stock,reorder_point,order_up_to,reorder_trigger,recommended_order,expected_closing_inventory,coverage_days,stockout_proxy
+2026-10-07,P001,35,20,30,38,historical_fallback,Normal,20,P50,18.5,3.7,22.2,40.7,False,0,16.5,0.89,False
