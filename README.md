@@ -224,28 +224,4 @@ retail-inventory-agent/
     └── README.md
 ```
 
-## Resume value
 
-This project is best described as a:
-
-> Probabilistic forecasting + regime-aware decision + sequential inventory control system
-
-rather than simply a "convenience-store AI project."
-
-Recommended technical keywords:
-
-- probabilistic forecasting
-- quantile forecasting
-- regime-aware decision making
-- time-series feature engineering
-- inventory optimization
-- safety stock
-- reorder point
-- order-up-to policy
-- sequential simulation
-- temporal leakage control
-- reproducible ML/algorithm engineering
-
-## License
-
-MIT
